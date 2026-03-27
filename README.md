@@ -67,7 +67,7 @@ I am passionate about building AI-driven solutions for the energy and industrial
 
 - **Developer:** Rajesh Chowdhury
 - **GitHub:** [RajeshChowdhury298](https://github.com/RajeshChowdhury298)
-- **LinkedIn:** [Insert Your LinkedIn Link Here]
+- **LinkedIn:** [(https://www.linkedin.com/in/rajesh-chowdhury-50b6b220b/)]
 
 ---
 *Developed during the IIT Roorkee Productathon 2026. Awarded 2nd Position.*
